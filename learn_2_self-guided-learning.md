@@ -1,6 +1,27 @@
 Learn Faster, Harder, Stronger II: Self-guided learning
 ===
 
+##The Kinds of Knowledge (*Knowledge Dimension*)
+
+
+4 different ‘kinds’ of knowledge - e.g. terminology, specific skills, self-knowledge.
+
+NOT exclusive to the ‘remember’ stage of cognitive process taxonomy (you can ‘analyse’ self-knowledge, for example)
+
+A. Factual Knowledge - The basic elements that students must know to be acquainted with a discipline or solve problems in it.   Aa. Knowledge of terminology 
+  Ab. Knowledge of specific details and elements 
+B. Conceptual Knowledge - The interrelationships among the basic elements within a larger structure that enable them to function together.   Ba. Knowledge of classifications and categories 
+  Bb. Knowledge of principles and generalizations 
+  Bc. Knowledge of theories, models, and structures 
+C. Procedural Knowledge - How to do something; methods of inquiry, and criteria for using skills, algorithms, techniques, and methods.   Ca. Knowledge of subject-specific skills and algorithms   Cb. Knowledge of subject-specific techniques and 
+methods   Cc. Knowledge of criteria for determining when 
+to use appropriate procedures 
+D. Metacognitive Knowledge - Knowledge of cognition in general as well as awareness and knowledge of one's own cognition.   Da. Strategic knowledge 
+  Db. Knowledge about cognitive tasks, including appropriate contextual and conditional knowledge 
+  Dc. Self-knowledge 
+
+D is most important for self-guided learning (especially adult learning)
+
 SCAFFOLDING SELF-GUIDED LEARNING USING BLOOM'S TAXONOMY
 ===
 
