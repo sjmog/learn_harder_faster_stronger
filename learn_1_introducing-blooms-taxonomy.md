@@ -36,7 +36,7 @@ According to the original 1956 publication, Bloom's Taxonomy provides:
 
 One of the big insights the taxonomy offered was that planned curricula tend to overwhelmingly focus on Knowledge (fact recognition and recall) at the expense of the *real* (or most memorable, at any rate) learning goals: Comprehension (understanding), and Synthesis (the creation of new things). 
 
-As a result, Bloom's Taxonomy is used by educational bodies to upgrade unbalanced (Knowledge-centric) and inefficient (and often repetitive) curricula to ones quickly escalate learners to higher cognitive tasks. 
+As a result, Bloom's Taxonomy is used by educational bodies to upgrade unbalanced (Knowledge-centric) and inefficient (and often repetitive) curricula to ones that quickly escalate learners to higher cognitive tasks. 
 
 There are several tools (for example, [Taxonomy Tables](http://www.etc.edu.cn/eet/articles/bloomrev/chart2.jpg)) that are widely used to boost learning efficiency in this way. Spending less time recalling facts and rote-learning basics, and more time spent debating and discussing topics in action or building projects, makes for far more efficient learning. On the flip side, attempting to do higher-level tasks without knowing or comprehending the basics of a topic causes confusion, upset, and a drastic decrease in motivation. The most efficient learning scaffolds are those that make use of Bloom's Taxonomy.
 
