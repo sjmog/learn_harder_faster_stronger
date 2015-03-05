@@ -1,7 +1,7 @@
 Learn Faster, Harder, and Stronger I: Introducing Bloom's Taxonomy
 ===
 
-> This is a series of articles aimed at both students and educators. In three parts, we look at how Bloom's Taxonomy (1956, revised 2001) can be used to build stronger, more motivated learners and clearer, more robust curricula. In this first article, we're going to introduce the Taxonomy.
+> This is a series of articles aimed at both students and educators. In three parts, we look at how Bloom's Taxonomy (1956, revised 2001) can be used to build stronger, more motivated learners and clearer, more robust curricula. In this first article, we're going to introduce the Taxonomy. To get the most out of articles 2 and 3, it's vital that we're familiar with the theory behind the practices.
 
 +++What's Bloom's Taxonomy?
 [Bloom's Taxonomy](http://www.casact.org/admissions/syllabus/Blooms-Taxonomy.pdf) is a powerful way of modelling the complexity of cognitive tasks. It was originally developed across several US universities from 1949 to 1956, and is generally considered to be one of the most, if not the most, important models in educational theory. It has been translated into 22 languages, and forms the backbone of almost all formal curricula around the world.
